@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ricketytoc.github.io/sitemap.xml
